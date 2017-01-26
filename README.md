@@ -34,7 +34,7 @@ We believe that the current reward systems can easily be transformed into a rede
 
 ## Accomplishments that we're proud of
 
-We built one nifty feature which allows pedestrians to look ahead on the path while using their phones. We think that it is one nice thing which we built which we have already started using in our lives. 
+We built one nifty feature which allows pedestrians to look ahead on the path while using their phones. We think that it is one nice thing which we built which we have already started using in our everyday lives. 
 
 ## What's next for PedSafety
 
