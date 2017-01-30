@@ -1,3 +1,5 @@
+[![PedSafety - Every pedestrians companion](http://i.imgur.com/Ey2ktdd.png?1)](https://www.youtube.com/watch?v=KCrZWfGEK4k)
+
 ## Inspiration
 
 Every year hundreds of pedestrians and cyclists become victims of road accidents. We truly believe that technology can reduce this number very easily and PedSafety aims to do that. PedSafety helps pedestrians in numerous ways and ensures that they obey the traffic rules. It is the perfect companion app for pedestrians.
